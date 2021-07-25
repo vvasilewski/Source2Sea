@@ -171,8 +171,6 @@ In the case there are 6 items of Rolex the final value will be subtracted by 200
 #
 ## Michal Wasilewski
 
-postbox.wasilewski@gmail.com
-
 
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
